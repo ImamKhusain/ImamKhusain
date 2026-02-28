@@ -21,6 +21,7 @@
   3. Public Relations & Media Communication Staff — Interdisciplinary Scientific Research (Nov 2023 — Nov 2025).  
   4. MedPub Public Relations Staff — Ikasda Madiun (2023 — sekarang).  
 - :sparkles: **Fun fact:** Easily adapts to new and friendly organizational environments.
+- :dart: **My Vision:** *Fortune Favors The Bold*
 
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Technologies & Tools
