@@ -19,7 +19,8 @@
   1. Publication Staff — Personal Computer and Cinematography, SMAN 2 Madiun (2021–2022).  
   2. 1st Winner of Poster Design Competition — Physiotherapy Festival, UPN “Veteran” Jakarta (17 Sep 2022).  
   3. Public Relations & Media Communication Staff — Interdisciplinary Scientific Research (Nov 2023 — Nov 2025).  
-  4. MedPub Public Relations Staff — Ikasda Madiun (2023 — sekarang).  
+  4. MedPub Public Relations Staff — Ikasda Madiun (2023 — sekarang).
+  5. Bronze Medal INTERNATIONAL VIRTUAL COMPETITION OF CREATIVE & INNOVATIVE IDEA (IVCCII).
 - :sparkles: **Fun fact:** Easily adapts to new and friendly organizational environments.
 - :dart: **My Vision:** *Fortune Favors The Bold*
 
@@ -39,6 +40,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![UIverse](https://img.shields.io/badge/UIverse-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🔧 Backend & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
